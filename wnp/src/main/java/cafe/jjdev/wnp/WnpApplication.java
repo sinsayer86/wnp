@@ -1,4 +1,4 @@
-package cafe.jjdev.ajaxtest;
+package cafe.jjdev.wnp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
